@@ -1,3 +1,11 @@
+# A repo for code-review interviews
+
+This is a repo filled with "not great" code so I can conduct interviews with candidates who will subsequently do code reviews on said code.
+
+It is a basic Turborepo starter (see generated readme below) with a couple of branches with commits for code review.
+
+---
+
 # Turborepo starter with pnpm
 
 This is an official starter turborepo.
