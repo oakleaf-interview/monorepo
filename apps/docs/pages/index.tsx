@@ -1,10 +1,10 @@
-import { Button } from "ui";
+import { ButtonManager } from "ui";
 
 export default function Docs() {
   return (
     <div>
       <h1>Docs</h1>
-      <Button />
+      <ButtonManager text="Docs Button" />
     </div>
   );
 }
